@@ -72,3 +72,8 @@ Nullsession and anonymous pipes allows a RPC to be run with escelated rights.
   pipe](https://www.youtube.com/watch?v=6xt0lEj-sac)
 * [Interprocess
   Communincation](https://learn.microsoft.com/en-us/windows/win32/ipc/interprocess-communications)
+
+## TODO
+
+- [ ] How can it connect without password and only localdomain/username?
+- [ ] Find out how to talk with malware
